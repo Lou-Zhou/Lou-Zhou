@@ -1,16 +1,17 @@
-## Hi there 👋
+<h3 align="center">👋 Hello, I'm Lou</h3>
 
-<!--
-**Lou-Zhou/Lou-Zhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://lou-zhou.github.io/">Website</a> •
+  <a href="https://www.linkedin.com/in/lou-zhou/">LinkedIn</a> •
+</p>
 
-Here are some ideas to get you started:
+---
+I'm currently a student at Rice University studying Sport Analytics and Statistics, where I work in Sport Analytics Research and will be the incoming Student Technical Lead for Rice Athletics this fall.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+While I'm particularly interested in applications with sports, having been a soccer player since I was 5, I've always been passionate about applying data and analytics to uncover patterns that quantify the nebulous and project the uncertain, no matter what field.
+
+Outside of data science, I love gardening, playing soccer, and working in technical theater.
+
+---
+
+- 📫 Reach me at [email](mailto:lz80@rice.edu)  
