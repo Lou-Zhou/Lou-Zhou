@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://lou-zhou.github.io/">Website</a> •
   <a href="https://www.linkedin.com/in/lou-zhou/">LinkedIn</a>
+  <a href="mailto:lz80@rice.edu">Email</a>
 </p>
 
 ---
@@ -12,6 +13,3 @@ While I'm particularly interested in applications with sports, having been a soc
 
 Outside of data science, I love gardening, playing soccer, and working in technical theater.
 
----
-
-- 📫 Reach me at [email](mailto:lz80@rice.edu)  
