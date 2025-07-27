@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://lou-zhou.github.io/">Website</a> •
-  <a href="https://www.linkedin.com/in/lou-zhou/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/lou-zhou/">LinkedIn</a> •
   <a href="mailto:lz80@rice.edu">Email</a>
 </p>
 
