@@ -7,9 +7,7 @@
 </p>
 
 ---
-I'm currently a student at Rice University studying Sport Analytics and Statistics, where I work in Sport Analytics Research and will be the incoming Student Technical Lead for Rice Athletics this fall.
-
-While I'm particularly interested in applications with sports, having been a soccer player since I was 5, I've always been passionate about applying data and analytics to uncover patterns that quantify the nebulous and project the uncertain, no matter what field.
+I'm currently a student at Rice University studying Sport Analytics and Statistics, I'm currently lucky enough to work as a research assistant under Scott Powers performing work in sport analytics. Additionally, I help lead an internal engineering team for Rice Athletics where we are currently looking to build internal tools which automate scouting reports for Men's Basketball. Outside of traditional sports, I am also interested in applications of data science with esports, where I currently am working on gg-pyparser, a Python library for getting esports data. 
 
 Outside of data science, I love gardening, playing soccer, and working in technical theater.
 
