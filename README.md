@@ -7,7 +7,7 @@
 </p>
 
 ---
-I'm currently a student at Rice University studying Sport Analytics, Statistics, and Math, and I'm currently lucky enough to work as a research assistant under Scott Powers performing work in sport analytics. Additionally, I help lead an internal engineering team for Rice Athletics where we are currently looking to build internal tools which automate scouting reports for Men's Basketball. Outside of traditional sports, I am also interested in applications of data science with esports, where I currently am working on gg-pyparser, a Python library for getting esports data. 
+I'm currently a student at Rice University studying Sport Analytics, Statistics, and Math, and I'm currently lucky enough to have worked as a research assistant under Scott Powers performing work in sport analytics. Outside of Rice, I have been fortunate enough to have worked for the Cincinnati Reds as a baseball analytics trainee and will joining the Oklahoma City Thunder as a basketball analytics intern.
 
 Outside of data science, I love gardening, playing soccer, and working in technical theater.
 
